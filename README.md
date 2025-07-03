@@ -1,0 +1,2 @@
+# CodeAlpha_Artificial_Intelligence_Internship_Project
+Artificial Intelligence project 
